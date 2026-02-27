@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+🌃 I'm currently working on improving and writing code and being able to use ai effectively in my day to day work.
+✈️ I'm looking to collaborate with big companies that can push me creatively and being able to work remote if needed
+❔You can ask me about why i choose software engineering, and the answer would be because i like the opportunity to challenge myself with something that changes everyday
+✨ A fun fact about me is that i am currently trying to go into college to get my bachelor's degree towards software engineering 
 <!--
 **Html-Dom/Html-Dom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
