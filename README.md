@@ -1,7 +1,9 @@
 ## Hi there 👋
+My name is Dominick some call me dom for short, i am a future software engineer that is learning to write code to develop and debug software/code 
+
 🌃 I'm currently working on improving and writing code and being able to use ai effectively in my day to day work.
 
-✈️ I'm looking to collaborate with big companies that can push me creatively and being able to work remote if needed
+✈️ I'm looking to collaborate with big companies that can push me creatively and being able to work remote 
 
 ❔You can ask me about why i choose software engineering, and the answer would be because i like the opportunity to challenge myself
 with something that changes everyday
